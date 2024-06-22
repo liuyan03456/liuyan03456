@@ -11,7 +11,8 @@
           <td>
             <h2 dir="auto">Hi I'm <a href="https://github.com/liuyan03456">@liuyan03456</a></h2>
             <p dir="auto">A beginner programmer from Taiwan</p>
-            <p dir="auto">🌱 I’m currently learning Framework, Python, etc.</p>
+            <p dir="auto">🌱 Currently learning Framework, Python, etc.</p>
+            <p dir="auto">抱歉打英文不太ok，我打中文好了</br>經歷：用過 <b>flask</b> 建過後端</br>現在在學前端，沒了-.-</p>
           </td>
         </tr>
     </tbody>
